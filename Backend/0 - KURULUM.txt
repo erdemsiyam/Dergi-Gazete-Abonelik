@@ -1,0 +1,18 @@
+dosyalarý sýrasýyla Execute ' yap. 
+
+Create Database Dergi  -- bunu yapmýþ ol.
+
+Use Dergi -- Bu kodu aþaðýdaki her query kodunun baþýnda execute yapmýþ ol
+
+1-Tablolar
+2-Triggers (içlerindeki dosyalarýda sýrasýyla)
+3-Procedures (içlerindeki dosyalarýda sýrasýyla)
+4-Procedures - Aramalar (içlerindeki dosyalarýda sýrasýyla)
+5-Procedures - Tablo Yedek
+6-Default Eklemeler
+
+* Uygulamayý Açmak için(c# ve asp.net) : visual studio arayüzünden open project ' týklayýp attýðým uygulama klasörü içindeki .sln  dosyasýný seçerek açabilirsiniz.
+
+* Hepsinin tek bir query sayfasýnda biriktirip execute yapmaya çalýþýrsan hata verir.
+
+* Eðer database ismi deðiþecek ise , c# form kodlarýn baþýndaki baðlantýlarda da , ASP.NET projesindeki web_config dosyasýnýn içindeki connection nesne içindeki database ismini de güncelleyin.
